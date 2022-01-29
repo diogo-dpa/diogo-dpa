@@ -33,15 +33,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=diogo-dpa&show_icons=true&theme=vision-friendly-dark" alt="diogo-dpa's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-dpa&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-<br><br>
-
 ## 📣 &nbsp;Social Media Links
 
 <p align="left" style="background:yellow">
@@ -52,3 +43,14 @@
  <img align="center" src="https://img.shields.io/badge/-diogo_dpa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=diogo-dpa&show_icons=true&theme=vision-friendly-dark" alt="diogo-dpa's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-dpa&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
+
