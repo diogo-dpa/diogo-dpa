@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [DTI Digital](https://www.linkedin.com/company/dtidigital/mycompany/)
 
-- 📗 System Engineering student at UFMG
+- 📗 System Engineering graduated at UFMG
 
 - ⚡ Electronics technician at CEFET-MG
 
