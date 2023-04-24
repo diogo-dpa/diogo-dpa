@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="[https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif](https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif)" width="30px">, I'm Diogo Almazan</h1>
+<h1 align="left">Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30px">, I'm Diogo Almazan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogo-dpa&color=green" alt="Profile views" /> </p>
 
 - 💻 Software Developer 
