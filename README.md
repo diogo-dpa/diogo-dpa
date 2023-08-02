@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at [DTI Digital](https://www.linkedin.com/company/dtidigital/mycompany/)
 
 - 📚 Distributed Software Architect post graduation at PUC MG
-- 
+
 - 📗 Systems Engineer graduated at UFMG
 
 - ⚡ Electronics technician at CEFET-MG
