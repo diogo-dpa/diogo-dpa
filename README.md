@@ -4,9 +4,9 @@
 
 - 💻 Software Developer 
 
-- 🔭 I’m currently working at [DTI Digital](https://www.linkedin.com/company/dtidigital/mycompany/)
+- 🔭 I’m currently working at [Encora Inc.](https://www.linkedin.com/company/encorainc/mycompany/)
 
-- 📚 Distributed Software Architect post graduation at PUC MG
+- 📚 Distributed Software Architect post graduated at PUC MG
 
 - 📗 Systems Engineer graduated at UFMG
 
